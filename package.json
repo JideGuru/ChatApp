@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JideGuru/ChatApp/issues"
   },
-  "homepage": "https://github.com/JideGuru/ChatApp#readme"
+  "homepage": "https://github.com/JideGuru/ChatApp#readme",
+  "dependencies": {
+    "ws": "^6.1.2"
+  }
 }
